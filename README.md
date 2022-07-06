@@ -50,10 +50,12 @@
       <img src='Screenshots/Screenshot from 2022-07-06 00-56-34.png'></img>
       <h5>Users after Delete Account.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-56-59.png'></img>
+      <h5>Returns to login/Register screen.</h5>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-44-52.png'></img>
     </li>
     <li>
       <h3>Admin Home page</h3>
-      <h4>Functions: Create Admin,Delete User bu Username,Logout</h4>
+      <h4>Functions: Create Admin,Delete User by Username,Logout</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-57-34.png'></img>
       <h4>Create Admin</h4>   
       <h5>Admin Inserts New Admin Username,Email and Password.</h5>
@@ -63,5 +65,8 @@
       <h4>Delete User</h4>
       <h5>Delete User (In case of username not found).</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-59-18.png'></img>
+      <h4>Logout</h4> 
+      <h5>Returns to login/Register screen.</h5>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-44-52.png'></img> 
     </li>
 </ul>
