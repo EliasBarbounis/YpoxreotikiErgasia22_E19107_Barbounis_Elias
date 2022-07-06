@@ -48,7 +48,7 @@
       <h4>Delete User Account</h4>
       <h5>Users before Delete Account</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-56-34.png'></img>
-      <h5>Users after delete.</h5>
+      <h5>Users after Delete Account.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-56-59.png'></img>
     </li>
     <li>
@@ -61,19 +61,16 @@
       <img src='Screenshots/admin_insert_movie2.png'></img>
       <h4>Update Movie</h4>   
       <h5>Admin finds and updates Movies info.</h5>
-      <img src='Screenshots/admin_movie_update2.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-57-34.png'></img>
       <img src='Screenshots/admin_movie_update3.png'></img>
       <img src='Screenshots/admin_movie_update_success.png'></img>
       <h4>Delete Movie</h4>   
       <h5>Admin finds and deletes Movie form database.</h5>
-      <img src='Screenshots/admin_movie_delete.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-58-08.png'></img>
       <h4>Delete Movie (Fail)</h4>
-      <img src='Screenshots/admin_movie_delete_fail.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-58-30.png'></img>
       <h4>Add new Admin</h4>
       <h5>Admin adds credentials of new system admin.</h5>
-      <img src='Screenshots/admin_new_admin.png'></img>
-      <img src='Screenshots/admin_new_admin2.png'></img>
-      <h4>Add new Admin (Fail)</h4>
-      <img src='Screenshots/admin_new_admin_fail.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-59-18.png'></img>
     </li>
 </ul>
