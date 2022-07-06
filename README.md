@@ -16,7 +16,7 @@
 <ul>
   <li>
      <h3>Home page</h3>
-      <h5>Sign up,Log in</h5>
+      <h5>Functions:Sign up,Log in</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-44-52.png'></img> 
       <h4>Sign up</h4>
       <h5>User Inserts the fields to Sign up.</h5>
@@ -34,13 +34,11 @@
     </li>
     <li>
       <h3>User Home page</h3>
-      <h4>Create Note,Delete by Title,Logout,Delete Account</h4>
+      <h4>Functions:Create Note,Delete by Title,Logout,Delete Account</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-51-10.png'></img>
       <h4>Create Note</h4>
       <h5>User Enters Note Title,Note Text and Keywords.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-54-08.png'></img>
-      <h4>Ticket Book</h4>
-      <h5>User types in amount of tickets they wish to book.
       <img src='Screenshots/Screenshot from 2022-07-06 00-54-37.png'></img>
       <h4>Submit Order</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-55-06.png'></img>
