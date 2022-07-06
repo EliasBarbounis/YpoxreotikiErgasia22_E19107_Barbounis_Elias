@@ -19,7 +19,7 @@
       <h5>Functions:Sign up,Log in</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-44-52.png'></img> 
       <h4>Sign up</h4>
-      <h5>User Inserts the fields to Sign up.</h5>
+      <h5>User Inserts the Email,Username and Fullname to Sign up.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-47-03.png'></img>
       <h4>User Sign up (When there is already a user with this e-mail)</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-47-43.png'></img>
@@ -39,11 +39,11 @@
       <h4>Create Note</h4>
       <h5>User Enters Note Title,Note Text and Keywords.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-54-08.png'></img>
-      <h5>The Note Created.</h5>
+      <h5>Note Created.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-54-37.png'></img>
       <h4>Delete by Title</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-55-06.png'></img>
-      <h4>Note Successfully Deleted</h4>
+      <h5>Note Successfully Deleted</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-55-21.png'></img>
       <h4>Delete User Account</h4>
       <h5>Users before Delete Account</h5>
@@ -53,21 +53,15 @@
     </li>
     <li>
       <h3>Admin Home page</h3>
-      <h4>Functions: Insert,Update,Delete Movie & Add new Admin User</h4>
-      <img src='Screenshots/admin_insert_movie.png'></img>
-      <img src='Screenshots/admin_insert_movie2.png'></img>
-      <h4>Update Movie</h4>   
-      <h5>Admin finds and updates Movies info.</h5>
+      <h4>Functions: Create Admin,Delete User bu Username,Logout</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-57-34.png'></img>
-      <img src='Screenshots/admin_movie_update3.png'></img>
-      <img src='Screenshots/admin_movie_update_success.png'></img>
-      <h4>Delete Movie</h4>   
-      <h5>Admin finds and deletes Movie form database.</h5>
+      <h4>Create Admin</h4>   
+      <h5>Admin Inserts New Admin Username,Email and Password.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-58-08.png'></img>
-      <h4>Delete Movie (Fail)</h4>
+      <h4>Admin Created</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-58-30.png'></img>
-      <h4>Add new Admin</h4>
-      <h5>Admin adds credentials of new system admin.</h5>
+      <h4>Delete User</h4>
+      <h5>Delete User (In case of username not found).</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-59-18.png'></img>
     </li>
 </ul>
