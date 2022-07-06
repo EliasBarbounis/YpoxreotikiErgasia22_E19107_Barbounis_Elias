@@ -16,18 +16,22 @@
 <ul>
   <li>
      <h3>Home page</h3>
-      Functions: Sign up,Log in
-      <img src='Screenshot from 2022-07-06 00-44-52.png'></img> 
+      <h5>Functions: Sign up,Log in</h5>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-44-52.png'></img> 
       <h4>User Sign up</h4>
       <h5>User/Admin inserts Name,E-mail,Password to Sign up.</h5>
-      <img src='Screenshots/user_sign_up2.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-47-03.png'></img>
       <h4>User Sign up (In case there is already a user with this e-mail)</h4>
-      <img src='Screenshots/user_sign_up_fail.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-47-43.png'></img>
       <h4>User/Admin Log in</h4>
       <h5>User/Admin inserts their credentials to log in the system.</h5>
-      <img src='Screenshots/user_log_in.png'></img>    
+      <img src='Screenshots/Screenshot from 2022-07-06 00-48-34.png'></img>    
       <h4>User/Admin Log in (In case of wrong credentials).</h4>
-      <img src='Screenshots/user_log_in_fail.png'></img> 
+      <img src='Screenshots/Screenshot from 2022-07-06 00-49-49.png'></img> 
+      <h4>User/Admin Log in (In case of wrong credentials).</h4>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-50-20'></img> 
+      <h4>User/Admin Log in (In case of wrong credentials).</h4>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-50-55.png'></img> 
     </li>
     <li>
       <h3>User Home page</h3>
