@@ -34,15 +34,16 @@
     </li>
     <li>
       <h3>User Home page</h3>
-      <h4>Functions:Create Note,Delete by Title,Logout,Delete Account</h4>
+      <h4>Functions:Create Note,Delete Note by Title,Logout,Delete Account</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-51-10.png'></img>
       <h4>Create Note</h4>
       <h5>User Enters Note Title,Note Text and Keywords.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-54-08.png'></img>
+      <h5>The Note Created.</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-54-37.png'></img>
-      <h4>Submit Order</h4>
+      <h4>Delete by Title</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-55-06.png'></img>
-      <h4>Book Succesful</h4>
+      <h4>Note Successfully Deleted</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-55-21.png'></img>
       <h4>User History</h4>
       <h5>User can see what movies they have booked tickets for.</h5>
