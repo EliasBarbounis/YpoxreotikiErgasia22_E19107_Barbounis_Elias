@@ -54,9 +54,6 @@
     <li>
       <h3>Admin Home page</h3>
       <h4>Functions: Insert,Update,Delete Movie & Add new Admin User</h4>
-      <img src='Screenshots/admin_page.png'></img>
-      <h4>Insert Movie</h4>
-      <h5>Admin types in Title,Release Date,Description and Screening Dates for the Movie they wish to insert to the database.</h5>
       <img src='Screenshots/admin_insert_movie.png'></img>
       <img src='Screenshots/admin_insert_movie2.png'></img>
       <h4>Update Movie</h4>   
