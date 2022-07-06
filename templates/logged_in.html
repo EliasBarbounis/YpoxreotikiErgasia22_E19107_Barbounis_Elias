@@ -1,0 +1,140 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style type="text/css">
+
+
+
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        height: 100%;
+        max-height: 100%;
+        font-family:Sans-serif;
+        line-height: 1.5em;
+    }
+
+
+    #nav {
+        position: absolute;
+        top: 10px;
+        left: 20px;
+        width: 100%;
+        height: 100px;
+
+    }
+
+
+    main {
+        position: fixed;
+        top: 70px;
+        left: 230px;
+        right: 0;
+        bottom: 0;
+        overflow: auto;
+        background: #fff;
+    }
+
+    .innertube {
+        margin: 15px;
+    }
+
+    p {
+        color: #555;
+    }
+
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        padding: 10px;
+    }
+    .grid-item {
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .item2 {
+        grid-column-start: 2;
+        grid-column-end: 3;
+    }
+
+
+    </style>
+
+</head>
+
+<body>
+
+    <main>
+        
+        <div class="innertube">
+            <div class="grid-container">
+                <div class="item1">
+                    <form name="note_form" method="post">
+
+                        <h2 >Create a Note</h2>
+
+                        <label for="title">Title</label>
+                        <input type="text" name="title" class="field" required >
+        
+                        <label for="noteText" >Note</label>
+                        <input type="text" name="noteText" class="field" required style="height: 150px;"> 
+        
+                        <label for="keywords" >Keywords</label>
+                        <input type="text" name="keywords" class="field" required>
+        
+                        <input type="submit" name="bt3" value="Create" class="btn" >
+                
+                    </form>
+
+                </div>
+                <div class="item2" style="left:50px;">
+                    <form name="search_form" method="post" >
+                        <h2>Search Note</h2>
+                        <label for="textbox">Title or Keyword</label>
+                        <input type="text" name="textbox" class="field" required  style="position:absolute; top:70px; width: 700px;">
+        
+                        <input type="submit" name="bt4" value="Search by Title" class="btn" style="position:absolute;  top:110px;" >
+                        <input type="submit" name="bt5" value="Search by Keyword" class="btn" style="position:absolute; top:110px; left:230px;">
+                        <input type="submit" name="bt6" value="Delete by Title" class="btn" style="position:absolute; top:110px; left:500px; background-color: red;">
+                        
+                      </form>
+                      
+
+                </div>
+                <!-- <div class="grid-item">3</div> -->
+
+              </div>
+        </div>
+        
+    </main>
+
+    <nav id="nav">
+        <div class="innertube">
+            <h1>DigitalNotes📝</h1>
+            <h2>👤 {{ username }}</h2>
+            <a href='http://127.0.0.1:5000/logout' ><input type="button" value="Logout" class="btn" ></a>
+            <a href='http://127.0.0.1:5000/delete' ><input type="submit" value="Delete Account" class="btn" style="background-color: red; position:absolute; bottom: 80px; left:130px;" ></a>
+            
+
+        </div>
+        <h1>User Home</h1">
+    </nav>
+</body>
+
+{% endblock %}
+

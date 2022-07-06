@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+
+  <div class="card-wrapper">
+
+    <div class="card">
+
+      <h1 class="center">Create an Account</h1>
+
+      <form name="signup_form" method="post">
+
+        <label for="email">Email</label>
+        <input type="email" name="email" class="field" required>
+
+        <label for="username">Username</label>
+        <input type="text" name="username" class="field" required>
+
+        <label for="fullname">Fullname</label>
+        <input type="text" name="fullname" class="field" required>
+
+        <label for="password">Password</label>
+        <input type="password" name="password" class="field" required>
+
+        {% if message  %}
+        <div class="alert alert-secondary" role="alert">
+            <h2 style="text-align:center;"><b>{{ message }}</b></h2>
+        </div>
+        {% endif %}
+
+        <input type="submit" name="bt" value="Sign Up" class="btn">
+        
+      
+      </form>
+      
+    </div>
+
+    <div class="card">
+
+      <h1 class="center">Log In</h1>
+
+      <form name="login_form" method="post">
+
+        <label for="email_username">Email or Username</label>
+        <input type="text" name="email_username" class="field" required>
+
+        <label for="password_l">Password</label>
+        <input type="password" name="password_l" class="field" required>
+
+        {% if message1  %}
+        <div class="alert alert-secondary" role="alert">
+            <h2 style="text-align:center;"><b>{{ message1 }}</b></h2>
+        </div>
+        {% endif %}
+
+        <input type="submit" name="bt" value="Log In" class="btn">
+        
+      </form>
+      
+    </div>
+  
+  </div>
+{% endblock %}
