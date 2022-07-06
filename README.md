@@ -45,11 +45,11 @@
       <img src='Screenshots/Screenshot from 2022-07-06 00-55-06.png'></img>
       <h4>Note Successfully Deleted</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-55-21.png'></img>
-      <h4>Delete User</h4>
-      <h5>Users before Delete</h5>
+      <h4>Delete User Account</h4>
+      <h5>Users before Delete Account</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-56-34.png'></img>
-      <h5>User after delete.</h5>
-      <img src='Screenshots/Screenshot from 2022-07-06 00-56-45.png'></img>
+      <h5>Users after delete.</h5>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-56-59.png'></img>
     </li>
     <li>
       <h3>Admin Home page</h3>
