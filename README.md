@@ -16,7 +16,7 @@
 <ul>
   <li>
      <h3>Home page</h3>
-      <h5>Functions: Sign up,Log in</h5>
+      <h5>Sign up,Log in</h5>
       <img src='Screenshots/Screenshot from 2022-07-06 00-44-52.png'></img> 
       <h4>User Sign up</h4>
       <h5>User/Admin inserts Name,E-mail,Password to Sign up.</h5>
