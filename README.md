@@ -25,10 +25,10 @@
       <img src='Screenshots/Screenshot from 2022-07-06 00-47-43.png'></img>
       <h4>User Sign up (When there is already a user with this username)</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-48-34.png'></img>    
-      <h4>User/Admin Log in (In case of wrong credentials).</h4>
+      <h4>User/Admin Log in.</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-49-49.png'></img> 
-      <h4>User/Admin Log in (In case of wrong credentials).</h4>
-      <img src='Screenshots/Screenshot from 2022-07-06 00-50-20'></img> 
+      <h4>User/Admin Log in (In case of wrong password).</h4>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-50-20.png'></img> 
       <h4>User/Admin Log in (In case of wrong credentials).</h4>
       <img src='Screenshots/Screenshot from 2022-07-06 00-50-55.png'></img> 
     </li>
