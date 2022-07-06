@@ -35,20 +35,22 @@
     <li>
       <h3>User Home page</h3>
       <h4>Functions: Movie search,Book tickets</h4>
-      <img src='Screenshots/user_page.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-51-10.png'></img>
       <h4>Movie search</h4>
       <h5>User types in the movie title they wish to book tickets for.</h5>
-      <img src='Screenshots/user_search2.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-54-08.png'></img>
       <h4>Ticket Book</h4>
       <h5>User types in amount of tickets they wish to book.
-      <img src='Screenshots/user_book_sits.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-54-37.png'></img>
       <h4>Submit Order</h4>
-      <img src='Screenshots/user_submit_order.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-55-06.png'></img>
       <h4>Book Succesful</h4>
-      <img src='Screenshots/user_book_succesful.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-55-21.png'></img>
       <h4>User History</h4>
       <h5>User can see what movies they have booked tickets for.</h5>
-      <img src='Screenshots/user_history.png'></img>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-56-34.png'></img>
+      <h5>User can see what movies they have booked tickets for.</h5>
+      <img src='Screenshots/Screenshot from 2022-07-06 00-56-45.png'></img>
     </li>
     <li>
       <h3>Admin Home page</h3>
