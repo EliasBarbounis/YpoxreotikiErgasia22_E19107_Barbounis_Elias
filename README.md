@@ -17,7 +17,7 @@
   
 | Name  | E-mail | Password     |
 | ------------- | ------------- |---|
-| admin  | admin@mail.com  | admin |
+| admin  | admin@gmail.com  | admin |
 <h3> Functions</h3>
 <ul>
   <li>
