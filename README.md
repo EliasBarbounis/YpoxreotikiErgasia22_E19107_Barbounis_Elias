@@ -12,6 +12,12 @@
   <li><h5>Admin Users:{'email': email, 'username': username, 'password': password, 'type': "admin_user"}</h5></li>
   <li><h5>Notes:{username': username, 'title': title, 'noteText': noteText, 'keywords': keywords, 'date': date}</h5></li>
   </ul>
+  
+    <h4>Default Admin</h4>
+  
+| Name  | E-mail | Password     |
+| ------------- | ------------- |---|
+| admin  | admin@mail.com  | admin |
 <h3> Functions</h3>
 <ul>
   <li>
